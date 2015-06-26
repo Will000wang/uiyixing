@@ -1,2 +1,1 @@
-# uiyixing
-uyixing
+uyixing CI project
